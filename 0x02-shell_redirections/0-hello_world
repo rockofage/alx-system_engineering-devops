@@ -1,2 +1,2 @@
 #!/bin/bash
-# This is bash programme to display Helllo World echo "Hello World"
+Prints "Hello, World", followed by a new line to the standard output
